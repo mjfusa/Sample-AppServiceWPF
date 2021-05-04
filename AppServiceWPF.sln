@@ -11,6 +11,8 @@ Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "WFPClient.Package", "WFPCli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFClient", "WPFClient\WPFClient.csproj", "{789D9EB8-B395-4B69-986B-6AC8C978C905}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF-Unpackaged", "WPF-Unpackaged\WPF-Unpackaged.csproj", "{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +117,26 @@ Global
 		{789D9EB8-B395-4B69-986B-6AC8C978C905}.Release|x64.Build.0 = Release|x64
 		{789D9EB8-B395-4B69-986B-6AC8C978C905}.Release|x86.ActiveCfg = Release|x86
 		{789D9EB8-B395-4B69-986B-6AC8C978C905}.Release|x86.Build.0 = Release|x86
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Debug|ARM.Build.0 = Debug|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Debug|x64.ActiveCfg = Debug|x64
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Debug|x64.Build.0 = Debug|x64
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Debug|x86.Build.0 = Debug|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Release|ARM.ActiveCfg = Release|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Release|ARM.Build.0 = Release|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Release|ARM64.Build.0 = Release|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Release|x64.ActiveCfg = Release|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Release|x64.Build.0 = Release|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Release|x86.ActiveCfg = Release|Any CPU
+		{39CEBFF4-71A0-4F6D-BBFF-78F41189313F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
